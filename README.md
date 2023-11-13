@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, welcome to my profile ✌️
 
-<!--
-**maxim-abro/maxim-abro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+class MaximAbro {
+  const name = "Maxim Abrosimov";
+  const pronouns = "he/him/his";
+  const birthday = "18.08.1996";
+  const skills = ["JavaScrips", "TypeScript", "Vue js", "Nuxt js", "HTML", "CSS", "Express"]
+  const languages = ["en_US", "ru_RU"]
+}
+```
 
-Here are some ideas to get you started:
+## Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚗 Cars;
+- ⚽️ Football;
+- ✈️ Tourism;
+- ⛰️ Mountains;
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,webpack,express,mysql,html,css,sass,express,vite,bash,bootstrap,tailwind,gulp,mongodb,nginx,git)](https://skillicons.dev)
+
+## Stats
+[![My stats](https://www.codewars.com/users/schwarzer88/badges/large)](https://www.codewars.com/users/schwarzer88)

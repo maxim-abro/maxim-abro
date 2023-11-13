@@ -5,8 +5,8 @@ class MaximAbro {
   const name = "Maxim Abrosimov";
   const pronouns = "he/him/his";
   const birthday = "18.08.1996";
-  const skills = ["JavaScrips", "TypeScript", "Vue js", "Nuxt js", "HTML", "CSS", "Express"]
-  const languages = ["en_US", "ru_RU"]
+  const skills = ["JavaScrips", "TypeScript", "Vue js", "Nuxt js", "HTML", "CSS", "Express"];
+  const languages = ["en_US", "ru_RU"];
 }
 ```
 

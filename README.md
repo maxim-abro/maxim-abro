@@ -5,7 +5,7 @@
 - 🚗 Cars;
 - ⚽️ Football;
 - ✈️ Tourism;
-- ⛰️ Mountains;
+- ⛰️ Mountains.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,webpack,express,mysql,html,css,sass,express,vite,bash,bootstrap,tailwind,gulp,mongodb,nginx,git)](https://skillicons.dev)

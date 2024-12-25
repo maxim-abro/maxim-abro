@@ -16,3 +16,4 @@
 ## My contacts
 - 📱 Telegram: [@maxim_abro](https://t.me/maxim_abro)
 - ✉️ Email: [maximabro96@gmail.com](mailto:maximabro96@gmail.com)
+- 🖥️ LinkedIn: [https://www.linkedin.com/in/maxim-abrosimov-65320a333/](https://www.linkedin.com/in/maxim-abrosimov-65320a333/)

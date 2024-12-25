@@ -12,3 +12,7 @@
 
 ## Stats
 [![My stats](https://www.codewars.com/users/schwarzer88/badges/large)](https://www.codewars.com/users/schwarzer88)
+
+## My contacts
+- 📱 Telegram: [@maxim_abro](https://t.me/maxim_abro)
+- Email: [maximabro96@gmail.com](mailto:maximabro96@gmail.com)

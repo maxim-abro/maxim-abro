@@ -15,4 +15,4 @@
 
 ## My contacts
 - 📱 Telegram: [@maxim_abro](https://t.me/maxim_abro)
-- Email: [maximabro96@gmail.com](mailto:maximabro96@gmail.com)
+- ✉️ Email: [maximabro96@gmail.com](mailto:maximabro96@gmail.com)

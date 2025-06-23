@@ -8,7 +8,7 @@
 - ⛰️ Mountains.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,pinia,html,css,sass,webpack,express,mysql,express,vite,bash,bootstrap,tailwind,gulp,mongodb,nginx,git,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,vitest,pinia,html,css,sass,webpack,express,mysql,express,vite,bash,bootstrap,tailwind,gulp,mongodb,nginx,git,postgres,docker)](https://skillicons.dev)
 
 ## Stats
 [![My stats](https://www.codewars.com/users/schwarzer88/badges/large)](https://www.codewars.com/users/schwarzer88)

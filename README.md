@@ -12,7 +12,10 @@
 
 ## Stats
 [![My stats](https://www.codewars.com/users/schwarzer88/badges/large)](https://www.codewars.com/users/schwarzer88)
-![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxim-abro&show_icons=true&theme=radical)
+
+![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxim-abro&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-abro&layout=pie&theme=dark)
 
 ## My contacts
 - 📱 Telegram: [@maxim_abro](https://t.me/maxim_abro)

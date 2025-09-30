@@ -1,4 +1,4 @@
-### Hi there, welcome to my profile ✌️
+### Hi there, my name is Max, welcome to my profile ✌️
 
 ## Hobbies
 

@@ -12,5 +12,3 @@
 
 ## Stats
 [![My stats](https://www.codewars.com/users/schwarzer88/badges/large)](https://www.codewars.com/users/schwarzer88)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-abro&layout=pie&theme=dark)

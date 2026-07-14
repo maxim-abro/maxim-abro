@@ -8,16 +8,11 @@
 - ⛰️ Mountains.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,vitest,pinia,html,css,sass,webpack,express,mysql,express,vite,bash,bootstrap,tailwind,gulp,mongodb,nginx,git,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,vite,vitest,pinia,html,css,sass,webpack,express,mysql,express,vite,bash,bootstrap,tailwind,gulp,mongodb,nginx,git,postgres,docker)](https://skillicons.dev)
 
 ## Stats
 [![My stats](https://www.codewars.com/users/schwarzer88/badges/large)](https://www.codewars.com/users/schwarzer88)
 
 ![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxim-abro&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-abro&layout=pie&theme=dark)
-
-## My contacts
-- 📱 Telegram: [@maxim_abro](https://t.me/maxim_abro)
-- ✉️ Email: [maximabro96@gmail.com](mailto:maximabro96@gmail.com)
-- 🖥️ LinkedIn: [https://www.linkedin.com/in/maxim-abrosimov-65320a333/](https://www.linkedin.com/in/maxim-abrosimov-65320a333/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-abro&layout=pie&theme=dar
